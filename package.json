@@ -6,7 +6,7 @@
     "publisher": "frizadiga",
     "repository": "https://github.com/frizadiga/friza-dark",
     "engines": {
-        "vscode": "^1.43.0"
+        "vscode": "^1.25.0"
     },
     "categories": [
         "Themes"
